@@ -7,8 +7,8 @@ public class Runner
 	{
 		// TODO Auto-generated method stub
 		Coins customer = new Coins();
-		double customersMoney = 20.00;
-		double itemPrice = 04.58;
+		double customersMoney = 10.00;
+		double itemPrice = 01.74;
 		
 		customer.calculateCustomersChange(customersMoney, itemPrice);
 
